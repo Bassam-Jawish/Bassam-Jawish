@@ -1,4 +1,4 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="350" width="600" />  
   
 
 ### <div align="center">I'm Bassam, a Junior Flutter developer 👨‍💻 Looking to Join a Growing Team 🚀</div>  
