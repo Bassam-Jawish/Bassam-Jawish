@@ -1,10 +1,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="350" width="600" />  
   
 
-### <div align="center">I'm Bassam, a Junior Flutter developer 👨‍💻 Looking to Join a Growing Team 🚀</div>  
+### <div align="center">I'm Bassam, a medior Flutter developer 👨‍💻 Looking to Join a Growing Team 🚀</div>  
   
 
-- 🔭 I’m currently working on [Winebly Project](https://github.com/Bassam-Jawish/Winbely-Social-App)  
+- 🔭 I’m currently working on a new Ecommerce App  
   
 
 - 🌱 I’m currently learning Websockets in Flutter  
